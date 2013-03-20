@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  status: MyText
+  geocode: MyString
+  image_url: MyString
+  user: 
+
+two:
+  status: MyText
+  geocode: MyString
+  image_url: MyString
+  user: 
